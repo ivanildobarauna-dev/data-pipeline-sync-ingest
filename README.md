@@ -1,5 +1,9 @@
 # Data Consumer API Project: ETL Process for Currency Quotes Data
 
+ETL Process for Currency Quotes Data" project is a complete solution dedicated to extracting, transforming and loading (ETL) currency quote data. This project uses several advanced techniques and architectures to ensure the efficiency and robustness of the ETL process.
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ivanildobarauna-dev/data-pipeline-sync-ingest)
+
 ![Project Status](https://img.shields.io/badge/status-done-brightgreen?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=mit)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ivanildobarauna-dev/data-pipeline-sync-ingest?style=for-the-badge&logo=github)
